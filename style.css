@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carte .card-title{
+
+}
+
+.carte .card-text,
+.carte .card-title{
+    font-size: 0.8rem; 
+}
+
+
+.carte-courses .card-title{
+  font-size: 0.9rem;
+}
+
+.carte-courses .card-subtitle{
+    font-size: 0.8rem;
+}
+
+.carte-courses .btn-dark{
+    font-size: 0.7rem;
+    /* margin-top: 25px; */
+    /* border-radius: 15%; */
+}
+
+
